@@ -1,2 +1,2 @@
-# CSharp-33.Proje
+# C#-33.Proje
 Hata Yönetimi1
