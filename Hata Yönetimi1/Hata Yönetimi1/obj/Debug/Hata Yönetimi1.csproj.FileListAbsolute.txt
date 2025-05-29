@@ -1,0 +1,7 @@
+C:\Users\mitha\source\repos\Hata Yönetimi1\Hata Yönetimi1\bin\Debug\Hata Yönetimi1.exe.config
+C:\Users\mitha\source\repos\Hata Yönetimi1\Hata Yönetimi1\bin\Debug\Hata Yönetimi1.exe
+C:\Users\mitha\source\repos\Hata Yönetimi1\Hata Yönetimi1\bin\Debug\Hata Yönetimi1.pdb
+C:\Users\mitha\source\repos\Hata Yönetimi1\Hata Yönetimi1\obj\Debug\Hata Yönetimi1.csproj.AssemblyReference.cache
+C:\Users\mitha\source\repos\Hata Yönetimi1\Hata Yönetimi1\obj\Debug\Hata Yönetimi1.csproj.CoreCompileInputs.cache
+C:\Users\mitha\source\repos\Hata Yönetimi1\Hata Yönetimi1\obj\Debug\Hata Yönetimi1.exe
+C:\Users\mitha\source\repos\Hata Yönetimi1\Hata Yönetimi1\obj\Debug\Hata Yönetimi1.pdb
